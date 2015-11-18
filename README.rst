@@ -1,3 +1,13 @@
+#####################
+Marshal:Serialization
+#####################
+
+By Jake Kwok
+
+.. Image:: https://upload.wikimedia.org/wikipedia/en/6/69/Marshall_logo.svg
+
+About Importing Marshal
+=======================
 This module is in the python library and contains functions that can read 
 and write Python values in a binary format. The format is specific to Python, 
 but independent of machine architecture issues 
