@@ -42,7 +42,7 @@ Marshal is Fast
 
 
 Although Marshal is limited in how many characters you can use. It 
-remains one of the Fastest Serlization tools
+remains one of the Fastest Serlization tools in the python library.
 
 1cjson
 -time_serializer took 416.574 ms
