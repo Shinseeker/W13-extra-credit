@@ -69,8 +69,8 @@ Marshal comes out the fastest... but what you get in speed, you pay for in reada
 portability and safety. (See the note on the webpage for Marshal and pickle
 on deserializing malicious strings.)
 
-If you want more details go to this site. They provide a code that you can take a
-look at:
+If you want more details go to this site. They provide a code that measures speed
+here is the link:
 - http://www.lorieau.com/methods-and-reference/computers-and-programming/21-python-serializers
 
 My Thoughts
